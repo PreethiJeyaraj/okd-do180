@@ -1,4 +1,4 @@
-FROM mysql:5.7
+FROM rhscl/mysql-80-rhel7
 
 # MySQL image for DO180
 #
